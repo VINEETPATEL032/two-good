@@ -4,25 +4,9 @@
 }
 
 @font-face {
-    font-family: ABCS;
-    src: url(./ABCSocialMono-Regular.woff2);
-}
-
-@font-face {
     font-family: futura;
     src: url(./Futura-Bold.woff2);
 }
-
-@font-face {
-    font-family: helvetica2;
-    src: url(./helvetica-now-text-regular-woff-2-4479bd.woff2);
-}
-
-@font-face {
-    font-family: mem;
-    src: url(./memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2);
-}
-
 
 *{
     margin: 0;
@@ -322,9 +306,9 @@ body{
 }  
 
 #page1 h1{
-    font-size: 16vw;
+    font-size: 14vw;
     line-height: 14vw;
-    letter-spacing: -3px;
+    letter-spacing: -1px;
 }
 
 #video-container{
